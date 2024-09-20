@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **NextJs, Framer Motion**
+- 🌱 I’m currently learning **NextJs, Framer Motion, ThreeJs**
 
 - 💬 Ask me about **MERN, UI/UX**
 
