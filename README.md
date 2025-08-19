@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddy74" alt="maddy74" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on building scalable websites using **MERN + DevOps**
 
-- 🌱 I’m currently learning **NextJs, Framer Motion, ThreeJs**
+- 🌱 I’m currently learning **NextJs, DevOps, ThreeJs, Cyber Security**
 
 - 💬 Ask me about **MERN, UI/UX, Cloud**
 
