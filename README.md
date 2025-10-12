@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, DevOps, ThreeJs, Cyber Security**
 
-- 💬 Ask me about **MERN, UI/UX, Cloud**
+- 💬 Ask me about **MERN, 3d , DevOps, Cyber-Security**
 
 - 📫 How to reach me **madhavsharmag47@gmail.com**
 
