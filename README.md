@@ -2,7 +2,7 @@
 
 > Recruiter-friendly proof and contact path.
 
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
+# **Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
 Hi, I'm **Maddy74**. This README is tuned for **get hired** with a Neon visual system.
@@ -37,6 +37,7 @@ GitSkins stat widgets will use the **Neon** theme.
   </picture>
 </p>
 ## Projects
+> Editing this section in the inspector.
 Highlights repositories as proof of work.
 <p align="center">
   <picture>
@@ -52,5 +53,7 @@ Contact and social links will appear here.
     <img src="https://www.gitskins.com/api/section/social?username=Maddy74&theme=neon" alt="Maddy74 social section" />
   </picture>
 </p>
+## Heatmap
+Animated year-long contribution calendar.
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect, Heatmap -->
