@@ -1,4 +1,4 @@
-Hi, I'm **Maddy74**. This README is tuned for **get hired** with a Neon visual system.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Maddy74&theme=neon&mode=light" />
