@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d18,50:003322,100:00ffaa&amp;height=200&amp;section=header&amp;text=MADDY&amp;fontSize=72&amp;fontColor=00ffaa&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Backend%20%C2%B7%20AI%20Explorer&amp;descAlignY=60&amp;descSize=15&amp;descColor=8888aa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,50:172554,100:2563eb&amp;height=200&amp;section=header&amp;text=MADDY&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Backend%20%C2%B7%20AI%20Explorer&amp;descAlignY=60&amp;descSize=15&amp;descColor=bfdbfe" width="100%" />
 
-<!-- STATUS BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/MCA-CGPA%208.39-00ffaa?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/MCA-CGPA%208.39-00ffaa?style=flat-square&amp;logoColor=black" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffaa?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-4499ff?style=flat-square" />
 </p>
@@ -83,12 +81,31 @@
 
 ## `$ git log --stats`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maddy74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d18&title_color=00ffaa&icon_color=4499ff&text_color=c8c8e8&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddy74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d18&title_color=00ffaa&text_color=c8c8e8" height="165" />
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  maddy@dev:~$ git log --stats                                │
+│                                                              │
+│  2026  →  AI-powered SaaS development                        │
+│  2026  →  Cloud & DevOps engineering                         │
+│  2025  →  Java / Spring Boot development                     │
+│  2025  →  MERN full-stack development                        │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  Languages                                                   │
+│  Java         ████████████░░                                 │
+│  JavaScript   ███████████░░░                                 │
+│  Python       ███████░░░░░░░                                 │
+│                                                              │
+│  Backend                                                     │
+│  Spring Boot  ██████████░░░░                                 │
+│  Node.js      ██████████░░░░                                 │
+│  React.js     ██████████░░░░                                 │
+│                                                              │
+│  maddy@dev:~$ git status                                     │
+│  → Building. Learning. Shipping.                             │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
