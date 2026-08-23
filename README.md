@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/MCA-CGPA%208.39-00ffaa?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffaa?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-4499ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Targeting-GCC%20%7C%20Remote%20US%2FEU-bb88ff?style=flat-square" />
 </p>
 
 </div>
