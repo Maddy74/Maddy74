@@ -1,139 +1,153 @@
-<div align="center">
+# Madhav Sharma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,50:172554,100:2563eb&amp;height=200&amp;section=header&amp;text=MADDY&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Backend%20%C2%B7%20AI%20Explorer&amp;descAlignY=60&amp;descSize=15&amp;descColor=bfdbfe" width="100%" />
+### Full Stack Developer | Java & Spring Boot | React & Next.js | DevOps
 
-<p>
-  <img src="https://img.shields.io/badge/MCA-CGPA%208.39-00ffaa?style=flat-square&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffaa?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-4499ff?style=flat-square" />
-</p>
+I am a Full Stack Developer focused on building scalable, maintainable, and production-ready web applications.
 
-</div>
+My primary focus is **Java, Spring Boot, React, Next.js, REST APIs, databases, Docker, CI/CD, and cloud technologies**. I enjoy working across the full development lifecycle — from designing APIs and database structures to building frontend experiences and deploying applications.
 
 ---
 
-<!-- WHOAMI — rendered as SVG terminal -->
-<img src="./assets/whoami.svg" width="100%" />
+## About Me
+
+* MCA Graduate
+* Full Stack Developer with a focus on **Java and Spring Boot**
+* Experienced with **React.js and Next.js**
+* Interested in **backend architecture, system design, cloud, and DevOps**
+* Currently strengthening my knowledge of **DSA, Spring Boot, AWS, Kubernetes, and system design**
+* Interested in building scalable applications and learning production engineering practices
 
 ---
 
-<!-- SYSTEM SCAN — rendered as SVG terminal panels -->
-<img src="./assets/system-scan.svg" width="100%" />
+## Technical Skills
+
+### Languages
+
+Java · JavaScript · TypeScript · SQL
+
+### Frontend
+
+React.js · Next.js · HTML · CSS · Tailwind CSS
+
+### Backend
+
+Java · Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Hibernate
+
+### Databases
+
+PostgreSQL · MySQL · MongoDB · H2
+
+### DevOps & Cloud
+
+Docker · Kubernetes · GitHub Actions · CI/CD · AWS · Linux
+
+### Development Tools
+
+Git · GitHub · IntelliJ IDEA · VS Code · Postman
+
+### Currently Learning
+
+Data Structures & Algorithms · System Design · Microservices · Kafka · Redis · AWS
 
 ---
 
-## `$ ls -la ./stack/`
+## Featured Projects
 
-<div align="center">
+### PortfolioOS
 
-**Languages**
+An interactive developer portfolio designed around a modern operating-system interface.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Docker · CI/CD
 
-**Backend**
+* Interactive terminal-based portfolio experience
+* Modern portfolio interface alongside terminal navigation
+* Animated UI and custom portfolio components
+* Dockerized application
+* CI/CD workflow for automated builds and deployment
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-004B87?style=for-the-badge)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**Observability & AI**
-
-![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-bb88ff?style=for-the-badge)
-
-</div>
+[View Repository](https://github.com/Maddy74/Maddy-DualBoot-Portfolio)
 
 ---
 
-<!-- PROJECTS — rendered as SVG terminal panel -->
-<img src="./assets/projects.svg" width="100%" />
+### TradeX
+
+A full-stack trading platform focused on providing a modern trading experience with real-time application workflows.
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+* Full-stack application architecture
+* REST API integration
+* Authentication and application workflows
+* Responsive frontend interface
 
 ---
 
-## `$ git log --stats`
+### Wanderlust
+
+A full-stack web application for discovering and managing travel listings.
+
+**Tech:** MongoDB · Express.js · React · Node.js
+
+* RESTful backend architecture
+* Database-driven application
+* Authentication and authorization
+* CRUD operations
+* Responsive frontend
+
+---
+
+## What I Work With
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  maddy@dev:~$ git log --stats                                │
-│                                                              │
-│  2026  →  AI-powered SaaS development                        │
-│  2026  →  Cloud & DevOps engineering                         │
-│  2025  →  Java / Spring Boot development                     │
-│  2025  →  MERN full-stack development                        │
-│                                                              │
-│  ──────────────────────────────────────────────────────────  │
-│                                                              │
-│  Languages                                                   │
-│  Java         ████████████░░                                 │
-│  JavaScript   ███████████░░░                                 │
-│  Python       ███████░░░░░░░                                 │
-│                                                              │
-│  Backend                                                     │
-│  Spring Boot  ██████████░░░░                                 │
-│  Node.js      ██████████░░░░                                 │
-│  React.js     ██████████░░░░                                 │
-│                                                              │
-│  maddy@dev:~$ git status                                     │
-│  → Building. Learning. Shipping.                             │
-└──────────────────────────────────────────────────────────────┘
+Frontend       → React, Next.js, TypeScript, Tailwind CSS
+Backend        → Java, Spring Boot, Node.js, REST APIs
+Databases      → PostgreSQL, MySQL, MongoDB
+DevOps         → Docker, Kubernetes, GitHub Actions
+Cloud          → AWS
+Engineering    → DSA, System Design, Microservices
 ```
 
 ---
 
-## `$ cat certs.txt`
+## Development Focus
 
-```
-[✓]  100xDevs DevOps Bootcamp              classx.co.in
-     └── Linux · EC2 · ECS · K8s · Terraform · Helm · CI/CD · GitOps
+I am currently focused on improving my ability to design and build production-ready systems.
+
+```text
+DSA
+ ↓
+Java & Spring Boot
+ ↓
+Database & API Design
+ ↓
+Microservices
+ ↓
+Docker & Kubernetes
+ ↓
+AWS & Cloud
+ ↓
+System Design
 ```
 
 ---
 
-<!-- CONNECT — rendered as SVG terminal panel -->
-<img src="./assets/connect.svg" width="100%" />
+## GitHub
 
-<div align="center">
+I use GitHub to build projects, experiment with technologies, practice software engineering concepts, and document my development journey.
 
-[![GitHub](https://img.shields.io/badge/github.com%2Fmaddy74-181717?style=for-the-badge&logo=github)](https://github.com/maddy74)
-[![Wanderlust Live](https://img.shields.io/badge/Wanderlust-Live%20Demo-00ffaa?style=for-the-badge&logo=render&logoColor=black)](https://wanderlust-eu84.onrender.com/listings)
-
-</div>
+[View my repositories](https://github.com/Maddy74?tab=repositories)
 
 ---
 
-<div align="center">
+## Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003322,50:0d0d18,100:0d0d18&height=100&section=footer" width="100%" />
+* Portfolio: https://maaddy.in
+* GitHub: https://github.com/Maddy74
+* LinkedIn: linkedin.com/in/madhavsharma04
+* Email: madhavsharmag80@gmail.com
 
-*"Build systems that don't just work — build systems that survive."*
+---
 
-</div>
+### Thanks for visiting my profile.
+
+I'm always interested in learning, building, and collaborating on interesting software projects.
