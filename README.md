@@ -131,19 +131,11 @@ System Design
 
 ---
 
-## GitHub
-
-I use GitHub to build projects, experiment with technologies, practice software engineering concepts, and document my development journey.
-
-[View my repositories](https://github.com/Maddy74?tab=repositories)
-
----
-
 ## Connect With Me
 
 * Portfolio: https://maaddy.in
 * GitHub: https://github.com/Maddy74
-* LinkedIn: linkedin.com/in/madhavsharma04
+* LinkedIn: https://linkedin.com/in/madhavsharma04
 * Email: madhavsharmag80@gmail.com
 
 ---
