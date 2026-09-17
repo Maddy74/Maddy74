@@ -12,7 +12,7 @@ My primary focus is **Java, Spring Boot, React, Next.js, REST APIs, databases, D
 
 * MCA Graduate
 * Full Stack Developer with a focus on **Java and Spring Boot**
-* Experienced with **React.js and Next.js**
+* Build applications using React.js and Next.js
 * Interested in **backend architecture, system design, cloud, and DevOps**
 * Currently strengthening my knowledge of **DSA, Spring Boot, AWS, Kubernetes, and system design**
 * Interested in building scalable applications and learning production engineering practices
@@ -71,7 +71,7 @@ An interactive developer portfolio designed around a modern operating-system int
 
 ### TradeX
 
-A full-stack trading platform focused on providing a modern trading experience with real-time application workflows.
+A full-stack trading application built using React, Node.js, Express.js, and MongoDB.
 
 **Tech:** React · Node.js · Express.js · MongoDB
 
@@ -137,9 +137,3 @@ System Design
 * GitHub: https://github.com/Maddy74
 * LinkedIn: https://linkedin.com/in/madhavsharma04
 * Email: madhavsharmag80@gmail.com
-
----
-
-### Thanks for visiting my profile.
-
-I'm always interested in learning, building, and collaborating on interesting software projects.
