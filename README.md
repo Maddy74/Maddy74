@@ -2,20 +2,20 @@
 
 ### Full Stack Developer | Java & Spring Boot | React & Next.js | DevOps
 
-I am a Full Stack Developer focused on building scalable, maintainable, and production-ready applications.
+I am a Full Stack Developer focused on building scalable, maintainable, and production-ready web applications.
 
-My primary focus is **Java, Spring Boot, React, Next.js, REST APIs, databases, Docker, CI/CD, and cloud technologies**. I enjoy working across the full development lifecycle, from designing APIs and database structures to building frontend applications and deploying services.
+My primary focus is **Java, Spring Boot, React, Next.js, REST APIs, databases, Docker, CI/CD, and cloud technologies**. I enjoy working across the full development lifecycle — from designing APIs and database structures to building frontend experiences and deploying applications.
 
 ---
 
 ## About Me
 
-- MCA Graduate
-- Full Stack Developer focused on **Java and Spring Boot**
-- Experienced with **React.js and Next.js**
-- Experience building **REST APIs and database-driven applications**
-- Familiar with **Docker, Kubernetes, CI/CD, AWS, and Linux**
-- Currently strengthening **DSA, system design, backend architecture, and cloud technologies**
+* MCA Graduate
+* Full Stack Developer with a focus on **Java and Spring Boot**
+* Experienced with **React.js and Next.js**
+* Interested in **backend architecture, system design, cloud, and DevOps**
+* Currently strengthening my knowledge of **DSA, Spring Boot, AWS, Kubernetes, and system design**
+* Interested in building scalable applications and learning production engineering practices
 
 ---
 
@@ -31,7 +31,7 @@ React.js · Next.js · HTML · CSS · Tailwind CSS
 
 ### Backend
 
-Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs
+Java · Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Hibernate
 
 ### Databases
 
@@ -55,30 +55,30 @@ Data Structures & Algorithms · System Design · Microservices · Kafka · Redis
 
 ### PortfolioOS
 
-An interactive developer portfolio built around an operating-system-inspired interface.
+An interactive developer portfolio designed around a modern operating-system interface.
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Docker · CI/CD
 
-- Interactive terminal-based portfolio experience
-- Modern portfolio interface with terminal navigation
-- Custom animations and interactive UI components
-- Dockerized application
-- CI/CD workflow for automated builds and deployment
-- [View Website](https://maaddy.in)
+* Interactive terminal-based portfolio experience
+* Modern portfolio interface alongside terminal navigation
+* Animated UI and custom portfolio components
+* Dockerized application
+* CI/CD workflow for automated builds and deployment
+
+[View Website](https://maaddy.in)
 
 ---
 
 ### TradeX
 
-A full-stack trading platform built to provide a modern trading application experience.
+A full-stack trading platform focused on providing a modern trading experience with real-time application workflows.
 
 **Tech:** React · Node.js · Express.js · MongoDB
 
-- Full-stack application architecture
-- REST API integration
-- Authentication and application workflows
-- Database-driven backend
-- Responsive frontend interface
+* Full-stack application architecture
+* REST API integration
+* Authentication and application workflows
+* Responsive frontend interface
 
 ---
 
@@ -86,14 +86,14 @@ A full-stack trading platform built to provide a modern trading application expe
 
 A full-stack web application for discovering and managing travel listings.
 
-**Tech:** MongoDB · Express.js · Node.js · React
+**Tech:** MongoDB · Express.js · React · Node.js
 
-- RESTful backend architecture
-- Database-driven application
-- Authentication and authorization
-- CRUD operations
-- Responsive frontend
-- [View Website](https://wanderlust-eu84.onrender.com/)
+* RESTful backend architecture
+* Database-driven application
+* Authentication and authorization
+* CRUD operations
+* Responsive frontend
+* [View Website](https://wanderlust-eu84.onrender.com/)
 
 ---
 
@@ -106,3 +106,40 @@ Databases      → PostgreSQL, MySQL, MongoDB
 DevOps         → Docker, Kubernetes, GitHub Actions
 Cloud          → AWS
 Engineering    → DSA, System Design, Microservices
+```
+
+---
+
+## Development Focus
+
+I am currently focused on improving my ability to design and build production-ready systems.
+
+```text
+DSA
+ ↓
+Java & Spring Boot
+ ↓
+Database & API Design
+ ↓
+Microservices
+ ↓
+Docker & Kubernetes
+ ↓
+AWS & Cloud
+ ↓
+System Design
+```
+---
+
+## Connect With Me
+
+* Portfolio: https://maaddy.in
+* GitHub: https://github.com/Maddy74
+* LinkedIn: https://linkedin.com/in/madhavsharma04
+* Email: madhavsharmag80@gmail.com
+
+---
+
+### Thanks for visiting my profile.
+
+I'm always interested in learning, building, and collaborating on interesting software projects.
