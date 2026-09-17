@@ -64,8 +64,7 @@ An interactive developer portfolio designed around a modern operating-system int
 * Animated UI and custom portfolio components
 * Dockerized application
 * CI/CD workflow for automated builds and deployment
-
-[View Repository](https://github.com/Maddy74/Maddy-DualBoot-Portfolio)
+* [View Website](https://maaddy.in)
 
 ---
 
@@ -93,6 +92,7 @@ A full-stack web application for discovering and managing travel listings.
 * Authentication and authorization
 * CRUD operations
 * Responsive frontend
+* [View Website](https://wanderlust-eu84.onrender.com/)
 
 ---
 
