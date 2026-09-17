@@ -47,7 +47,7 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman
 
 ### Currently Learning
 
-Data Structures & Algorithms · System Design · Microservices · Kafka · Redis · AWS
+Data Structures & Algorithms · System Design · AWS · Microservices
 
 ---
 
