@@ -1,10 +1,10 @@
 # Madhav Sharma
 
-### Full Stack Developer | Java & Spring Boot | MERN | React & Next.js | DevOps
+### Full Stack Developer | Java & Spring Boot | MERN | React & Next.js | DevOps | Learning AI Engineering
 
 I am a Full Stack Developer focused on building scalable, maintainable, and production-ready web applications.
 
-My primary focus is **Java, Spring Boot, MERN Stack, React, Next.js, REST APIs, databases, Docker, CI/CD, and cloud technologies**. I enjoy working across the full development lifecycle, from designing APIs and database structures to building frontend applications and deploying services.
+My primary focus is **Java, Spring Boot, MERN Stack, React, Next.js, REST APIs, databases, Docker, CI/CD, and cloud technologies**. I enjoy working across the full development lifecycle, from designing APIs and database structures to building frontend applications and deploying services. I'm also building skills in **AI engineering**: LLMs, RAG, and agentic systems.
 
 ---
 
@@ -15,6 +15,7 @@ My primary focus is **Java, Spring Boot, MERN Stack, React, Next.js, REST APIs, 
 - Build applications using **React.js and Next.js**
 - Experience building **REST APIs and database-driven applications**
 - Interested in **backend architecture, system design, cloud, and DevOps**
+- Currently learning **AI engineering**: LLMs, RAG, AI agents, and evaluation of AI systems
 - Currently strengthening my knowledge of **DSA, AWS, Kubernetes, and system design**
 - Focused on building scalable applications and improving production engineering practices
 
@@ -24,7 +25,7 @@ My primary focus is **Java, Spring Boot, MERN Stack, React, Next.js, REST APIs, 
 
 ### Languages
 
-Java · JavaScript · SQL
+Java · JavaScript · SQL · Python
 
 ### Frontend
 
@@ -53,6 +54,10 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman
 ### Currently Learning
 
 Data Structures & Algorithms · System Design · Microservices · AWS
+
+### AI / ML (Currently Learning)
+
+LLM Fundamentals · Retrieval-Augmented Generation (RAG) · Vector Databases (Qdrant, pgvector) · LangChain · LangGraph · AI Agents & Tool Calling · Model Context Protocol (MCP) · LLM Evaluation & Observability · Fine-Tuning (LoRA/QLoRA) · FastAPI
 
 ---
 
@@ -85,6 +90,7 @@ A full-stack trading application built using React, Node.js, Express.js, and Mon
 - Authentication and application workflows
 - Database-driven backend
 - Responsive frontend interface
+
 ---
 
 ### Wanderlust
